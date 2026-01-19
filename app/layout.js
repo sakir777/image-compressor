@@ -8,13 +8,13 @@ export const metadata = {
     google: "0e7mdcM_loO641Dc5Dsmkmf0P0X71mq3WU7xhdDioeE"
   },
   alternates: {
-    canonical: 'https://yourdomain.com/',
+    canonical: 'https://image-compressor-mu-dun.vercel.app/',
   },
   openGraph: {
     title: 'Image Compressor - Reduce Image Size Online Free',
     description: 'Compress JPG and PNG images online. Free browser-based image compressor that reduces file size without uploading to servers.',
     type: 'website',
-    url: 'https://yourdomain.com/',
+    url: 'https://image-compressor-mu-dun.vercel.app/',
   },
   robots: {
     index: true,
