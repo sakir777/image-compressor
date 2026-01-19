@@ -5,7 +5,7 @@ export const metadata = {
   description: 'Compress JPG and PNG images online. Free browser-based image compressor that reduces file size without uploading to servers.',
   keywords: 'image compressor, compress image, reduce image size, image optimizer, jpg compressor, png compressor',
   verification: {
-    google: "xYzAbC1234567890"
+    google: "0e7mdcM_loO641Dc5Dsmkmf0P0X71mq3WU7xhdDioeE"
   },
   alternates: {
     canonical: 'https://yourdomain.com/',
